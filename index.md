@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AI Gaming training and test images for Microsoft Custom Vision Events
 
 You can use the [editor on GitHub](https://github.com/AI-Gaming/Custom-Vision-Training-Images/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

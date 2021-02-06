@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
 title: Custom Vision Training and Test Images for AI Gaming Microsoft Custom Vision Events
 description: These are the training images for the AI Gaming Microsoft Custom Vision Events
-show_downloads: true
+show_downloads: false
 is_project_page: true

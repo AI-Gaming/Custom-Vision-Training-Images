@@ -7,12 +7,14 @@ Download and expand the zip file which contains two folders.
 * Training Data
 * Testing Data
 
-Don't use the testing data images to train your planets model as this will nullify the results of testing your model
+Don't use the testing data images to train your planets model as this will nullify the results of testing your model.
+
+The following is a list of the zip file contents:
 
 ```
 .
 └── Planets
-    ├── Testing\ Data
+    ├── Testing Data
     │   ├── earth
     │   │   └── earth1.jpg
     │   ├── jupiter
@@ -21,7 +23,7 @@ Don't use the testing data images to train your planets model as this will nulli
     │   └── mercury
     │       ├── mercury6.jpg
     │       └── mercury7.jpg
-    └── Training\ Data
+    └── Training Data
         ├── Jupiter
         │   ├── jupiter1.jpg
         │   ├── jupiter2.jpg
